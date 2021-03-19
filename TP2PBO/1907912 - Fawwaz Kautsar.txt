@@ -1,0 +1,7 @@
+Saya Fawwaz Kautsar mengerjakan evaluasi TP2PBO2021 dalam mata kuliah Desain dan Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. 
+
+kesulitan yang saya hadapi diantara lain adalah: 
+Pada saat selesai penginstalan software netBeans IDE (v.12.2), lalu membuat projek jframe form tampilannya hanya loading sehingga tidak dapat didesain. 
+Kemudian diinstal ulang beralih ke versi netBeans IDE (v.12.3), dan kesulitannya hanya pada saat menimpa lapisan yang satu dengan yang lainnya dan mengkoneksikan ke database.  
+
+hal yang dapat dipelajari oleh saya adalah bisa belajar skill baru. 
